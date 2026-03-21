@@ -106,7 +106,8 @@ Además, estoy en constante aprendizaje para mejorar mis habilidades técnicas y
 
 ## 📊 Estadísticas de GitHub
 
-![Heiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeinerDev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinerDev&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heinerapaza19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heinerapaza19&layout=compact&theme=tokyonight)
 
 ---
